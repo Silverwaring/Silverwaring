@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Silverwaring
-- 👀 I’m interested in SEO, CMS Developement, Headless CMS Development & Static Website Generators
-- 🌱 I’m currently learning all about life 
-- 💞️ I’m looking to collaborate on anythiny SEO related 
+- 👀 I’m interested in SEO, Headless CMS Development & Static Website Generators
+- 🌱 I’m currently learning JavaScript & Python
+- 💞️ I’m looking to collaborate on anything SEO related 
 - 📫 How to reach me andy@fishpoolmarketing.com
 
 <!---
